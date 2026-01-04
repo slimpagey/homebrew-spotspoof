@@ -1,8 +1,8 @@
 class Spotspoof < Formula
   desc "Domain spoofing detection for security automation workflows"
   homepage "https://github.com/slimpagey/spotspoof-cli"
-  url "https://github.com/slimpagey/spotspoof-cli/archive/refs/tags/v1.0.2.tar.gz"
-  sha256 "6fbdec4319896154aca3e2d5c55f6f0dce920a46d1b149f6d909aad087b6330f"
+  url "https://github.com/slimpagey/spotspoof-cli/archive/refs/tags/v1.0.3.tar.gz"
+  sha256 "d2efc86bf2d0de228209a6540f3b0061167bd7375da85e2411be7fa540e23f2a"
   license "MIT"
 
   depends_on "rust" => :build
